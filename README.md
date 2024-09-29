@@ -17,7 +17,7 @@ this application, receives images and predict the Drones and UAV in that image. 
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Data Set](#Data-Set)
+2. [Dataset](#dataset)
 3. [Installation](#installation)
 4. [Usage](#usage)
 
@@ -27,10 +27,12 @@ We have used YOLO.v8 and ultralytics to train a custom model to detect Drones an
 
 
 The program includes two files ```model_train.ipynb``` and ```model_test.ipynb``` the training file takes about 7 hours to train the model and in the end it gives you best.pt file which includes the weights.
-> [!NOTE]
+> [!TIP]
 > As a user you just have to open ```model_test.ipynb``` file to predict your images
-> 
-## Data Set
+
+
+
+## Dataset
 the Data set includes 20 thousand labled pictures of Drones. ( 16 thousand train data , 2 thousand validation data , 2 thousand test data)
 you can find the data set [here](https://https://universe.roboflow.com/get/uav-detect-pfiqs/dataset/1/).
    

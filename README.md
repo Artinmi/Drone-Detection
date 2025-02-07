@@ -1,8 +1,4 @@
 # Drone Detection using convolutional neural network
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56449746-ee22-4f13-ba6f-78352d836c04" width="45%" alt="Leg"/>
-</p>
-
 this application, receives images and predict the Drones and UAV in that image. you can input image to the program and receive the predicted classes with bounding boxes.
 
 <p align="center">

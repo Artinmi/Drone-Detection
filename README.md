@@ -19,7 +19,7 @@ this application, receives images and predict the Drones and UAV in that image. 
 2. [Dataset](#dataset)
 3. [Installation](#installation)
 4. [Usage](#usage)
-
+5. [Credits](#credits)
 
 ## Introduction
 We have used YOLO.v8 and ultralytics to train a custom model to detect Drones and UAVs. This Custom Training is based on convolutional neural network (CNN)
@@ -50,4 +50,18 @@ you can find the data set [here](https://https://universe.roboflow.com/get/uav-d
   <img src="https://github.com/Artinmi/Drone-Detection/blob/master/drones.jpg" width="95%" alt="Leg"/>
 </p>
         
+## Credits
+
+### Contributions
+Contributions are always welcome! If you'd like to improve the project or add new features:
+1. Fork this repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request for review.
+
+### Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- Artin Mokhtariha - [artin1382mokhtariha@gmail.com](mailto:artin1382mokhtariha@gmail.com)
+- GitHub: [Artinmi](https://github.com/Artinmi)
+- Linkedin Post: [Click here](https://www.linkedin.com/posts/artin-mokhtariha-759a3b330_dronedetection-deeplearning-yolov8-activity-7293599568674349057-x8xW?utm_source=share&utm_medium=member_desktop)
 

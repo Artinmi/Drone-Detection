@@ -5,7 +5,7 @@ this application, receives images and predict the Drones and UAV in that image. 
   <img src="https://github.com/Artinmi/Drone-Detection/blob/master/drone.jpg" width="50%" alt="Leg"/>
 </p>
 
-22
+2
 
 
 <p align="center">
